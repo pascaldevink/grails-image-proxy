@@ -1,0 +1,11 @@
+<plugin name='image-proxy' version='0.2' grailsVersion='1.1 &gt; *'>
+  <author>Pascal de Vink</author>
+  <authorEmail>pascal.de.vink@gmail.com</authorEmail>
+  <title>Image proxy for downloading images from other places</title>
+  <description>Let the application download images from a remote server (ie, behing a firewall) and present them to the user.</description>
+  <documentation>http://grails.org/ImageProxy+Plugin</documentation>
+  <resources>
+    <resource>ImageProxyTagLib</resource>
+  </resources>
+  <dependencies />
+</plugin>
